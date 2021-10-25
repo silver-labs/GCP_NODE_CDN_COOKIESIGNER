@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/silver-labs/GCP_NODE_CDN_COOKIESIGNER.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Neil Cains",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/silver-labs/GCP_NODE_CDN_COOKIESIGNER/issues"
   },
