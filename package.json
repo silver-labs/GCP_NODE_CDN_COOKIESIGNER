@@ -1,0 +1,22 @@
+{
+  "name": "gcp_node_cdn_cookiesigner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cdnCookieSigner.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silver-labs/GCP_NODE_CDN_COOKIESIGNER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silver-labs/GCP_NODE_CDN_COOKIESIGNER/issues"
+  },
+  "homepage": "https://github.com/silver-labs/GCP_NODE_CDN_COOKIESIGNER#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
